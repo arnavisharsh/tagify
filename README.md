@@ -4,7 +4,7 @@ ML project that tags songs with emotions/vibes.
 
 ________________________________________________________________________________________
 
-Arnav Harsh - Single collaborator
+Arnav Harsh - Single collaborator, first ever hackathon project :)
 
 ________________________________________________________________________________________
 
@@ -33,6 +33,7 @@ The API's I used include:
 - Ast -> used to help fix discrepences with the way the tags were saved.
 - joblib -> used to basically import the ML trained model to another file to be able to run the trained code.
 - streamlit -> used for the UI and the front end.
+- Kaggle -> downloaded all datasets used for this project through kaggle.
 
 ________________________________________________________________________________________
 
