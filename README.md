@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 The API's I used include:
 - Pandas -> HEAVILY used for the datasets and CSV files.
-- Sylearn  -> used to train the Random Forest Classifier ML model, also used to convert the tags into binary numbers.
+- Scikit-Learn  -> used to train the Random Forest Classifier ML model, also used to convert the tags into binary numbers.
 - Ast -> used to help fix discrepences with the way the tags were saved.
 - joblib -> used to basically import the ML trained model to another file to be able to run the trained code.
 - streamlit -> used for the UI and the front end.
